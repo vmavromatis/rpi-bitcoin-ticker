@@ -1,7 +1,7 @@
 # rpi-bitcoin-tracker
-Raspberry Pi I²C LCD Bitcoin Tracker
+Raspberry Pi I²C LCD Bitcoin Ticker
 
-![Tracker](https://github.com/vmavromatis/rpi-bitcoin-tracker/raw/master/images/final.jpg)
+![](https://github.com/vmavromatis/rpi-bitcoin-tracker/raw/master/images/final.jpg)
 
 # Requirements
 ```sudo pip install i2c_lcd```
@@ -18,7 +18,8 @@ Just connect the following 4 pins to your RPi:
 
 <img src="https://github.com/vmavromatis/rpi-bitcoin-tracker/raw/master/images/i2c_lcd.jpg" width="300" height="400"><img src="https://github.com/vmavromatis/rpi-bitcoin-tracker/raw/master/images/rpi.png" width="400" height="200">
 
+
 # Donate
-If you aprreciate this project feel free to buy me a coffee! :)  
+If you aprreciate this little project feel free to buy me a coffee! :)  
 144baBdC8VLajpFipmaZQughzAgLFQZfjD  
 <img src="https://github.com/vmavromatis/rpi-bitcoin-tracker/raw/master/images/qr.png" width="100" height="100">
