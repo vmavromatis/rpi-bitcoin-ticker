@@ -1,4 +1,4 @@
-# rpi-bitcoin-tracker
+# rpi-bitcoin-ticker
 Raspberry Pi I²C LCD Bitcoin Ticker
 
 ![](https://github.com/vmavromatis/rpi-bitcoin-tracker/raw/master/images/final.jpg)
